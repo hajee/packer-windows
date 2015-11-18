@@ -1,0 +1,1 @@
+%ALLUSERSPROFILE%\chocolatey\bin\choco upgrade powershell -pre --force -y
